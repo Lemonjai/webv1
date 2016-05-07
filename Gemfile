@@ -28,7 +28,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'materialize-sass'
 # Rails 12 factor gem
 gem 'rails_12factor'
-
+gem 'rails_stdout_logging', '~> 0.0.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
