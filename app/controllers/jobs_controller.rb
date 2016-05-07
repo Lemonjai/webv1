@@ -4,6 +4,7 @@ class JobsController < ApplicationController
 
   def index
     @jobs = Job.all.order("created_at DESC")
+    @category = Category.all
   end
 
   def show

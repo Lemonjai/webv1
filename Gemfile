@@ -31,6 +31,7 @@ gem 'rails_12factor'
 gem 'rails_stdout_logging', '~> 0.0.5'
 gem 'devise'
 gem 'simple_form'
+gem 'bootstrap-sass'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
